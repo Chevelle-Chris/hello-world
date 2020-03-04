@@ -8,8 +8,16 @@
           <option name="serverUri" value="https://dev.azure.com/hagerty" />
           <option name="userId" value="83e4080c-0cb6-6cf0-b0cf-a8fd34328abe" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;93a164d9-45da-4074-8860-a09d7919a665&quot;,&quot;name&quot;:&quot;hagerty&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/_apis/projectCollections/93a164d9-45da-4074-8860-a09d7919a665&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Drive cool cars. Build cool products.&quot;,&quot;id&quot;:&quot;630f3aad-8825-4132-b54d-13296326ff8b&quot;,&quot;name&quot;:&quot;Hagerty&quot;,&quot;revision&quot;:271,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/_apis/projects/630f3aad-8825-4132-b54d-13296326ff8b&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;4b515d10-f3c7-45a0-b3a8-15db2bb3c495&quot;,&quot;name&quot;:&quot;hagerty-enterprise-data-hub&quot;,&quot;remoteUrl&quot;:&quot;https://hagerty@dev.azure.com/hagerty/Hagerty/_git/hagerty-enterprise-data-hub&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/630f3aad-8825-4132-b54d-13296326ff8b/_apis/git/repositories/4b515d10-f3c7-45a0-b3a8-15db2bb3c495&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Drive cool cars. Build cool products.&quot;,&quot;id&quot;:&quot;630f3aad-8825-4132-b54d-13296326ff8b&quot;,&quot;name&quot;:&quot;Hagerty&quot;,&quot;revision&quot;:271,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/_apis/projects/630f3aad-8825-4132-b54d-13296326ff8b&quot;},&quot;_links&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Drive cool cars. Build cool products.&quot;,&quot;id&quot;:&quot;630f3aad-8825-4132-b54d-13296326ff8b&quot;,&quot;name&quot;:&quot;Hagerty&quot;,&quot;revision&quot;:280,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/_apis/projects/630f3aad-8825-4132-b54d-13296326ff8b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;4b515d10-f3c7-45a0-b3a8-15db2bb3c495&quot;,&quot;name&quot;:&quot;hagerty-enterprise-data-hub&quot;,&quot;remoteUrl&quot;:&quot;https://hagerty@dev.azure.com/hagerty/Hagerty/_git/hagerty-enterprise-data-hub&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/630f3aad-8825-4132-b54d-13296326ff8b/_apis/git/repositories/4b515d10-f3c7-45a0-b3a8-15db2bb3c495&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Drive cool cars. Build cool products.&quot;,&quot;id&quot;:&quot;630f3aad-8825-4132-b54d-13296326ff8b&quot;,&quot;name&quot;:&quot;Hagerty&quot;,&quot;revision&quot;:280,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/hagerty/_apis/projects/630f3aad-8825-4132-b54d-13296326ff8b&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="83e4080c-0cb6-6cf0-b0cf-a8fd34328abe" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -25,7 +33,7 @@
       <array>
         <PropertyState>
           <option name="name" value="repoRoot" />
-          <option name="value" value="$USER_HOME$/src/hagerty_dev/venv" />
+          <option name="value" value="$USER_HOME$/src" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
