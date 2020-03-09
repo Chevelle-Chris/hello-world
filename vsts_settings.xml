@@ -33,7 +33,7 @@
       <array>
         <PropertyState>
           <option name="name" value="repoRoot" />
-          <option name="value" value="$USER_HOME$/src/Hagerty/venv" />
+          <option name="value" value="$USER_HOME$/src/Hagerty/" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
