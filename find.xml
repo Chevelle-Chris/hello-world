@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../test/unit/libs/utils/test_json_attribute_validation.py'" />
-    <option name="defaultScopeName" value="File '.../test/unit/libs/utils/test_json_attribute_validation.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../test/unit/libs/utils/test_json_attribute_validation.py'" />
+    <option name="customScope" value="File '.../metadata/utils/schema_to_json-0.1.5-py2.py3-none-any.whl'" />
+    <option name="defaultScopeName" value="File '.../metadata/utils/schema_to_json-0.1.5-py2.py3-none-any.whl'" />
+    <option name="SEARCH_SCOPE" value="File '.../metadata/utils/schema_to_json-0.1.5-py2.py3-none-any.whl'" />
   </component>
 </application>
