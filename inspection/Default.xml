@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="121">
+        <list size="122">
           <item index="0" class="java.lang.String" itemvalue="tzlocal" />
           <item index="1" class="java.lang.String" itemvalue="Babel" />
           <item index="2" class="java.lang.String" itemvalue="json-merge-patch" />
@@ -125,6 +125,7 @@
           <item index="118" class="java.lang.String" itemvalue="py" />
           <item index="119" class="java.lang.String" itemvalue="pyparsing" />
           <item index="120" class="java.lang.String" itemvalue="attrs" />
+          <item index="121" class="java.lang.String" itemvalue="pymssql" />
         </list>
       </value>
     </option>
