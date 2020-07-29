@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="aws_cred">
+      <action id="EditorLineStart" />
+      <action id="Replace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="0:1">&quot;</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="69:0;88:0;80:0;79:0;82:0;84:0;32:0">export&amp;#x20;</typing>
+    </macro>
+    <macro name="Aws2">
+      <action id="EditorLineStart" />
+      <action id="Replace" />
+      <typing text-keycode="0:1">&quot;</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="69:0;88:0;80:0;79:0;82:0;84:0;32:0">export&amp;#x20;</typing>
+    </macro>
+  </component>
+</application>
