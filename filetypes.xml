@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="fasdf" type="AUTO_DETECTED" />
       <mapping pattern="key" type="AUTO_DETECTED" />
-      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="coveragerc" type="PLAIN_TEXT" />
