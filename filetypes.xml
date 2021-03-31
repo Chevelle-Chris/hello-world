@@ -10,6 +10,7 @@
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="coveragerc" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
+      <mapping pattern="end_to_end_tests.yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
