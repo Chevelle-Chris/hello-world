@@ -4,6 +4,16 @@
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
   </Python>
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="INSERT_CONTENT" value="2" />
+    <option name="INSERT_CLOSING" value="3" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="1" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="100" />
     <option name="KEEP_LINE_BREAKS" value="false" />
