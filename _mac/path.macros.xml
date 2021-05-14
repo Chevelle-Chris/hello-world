@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="AIRFLOW_ARTIFACTS_HOME" value="/Users/cwinslow/projects/hagerty-enterprise-data-hub/airflow" />
-    <macro name="PYTHONPATH" value="/Users/cwinslow/projects/hagerty-enterprise-data-hub" />
+    <macro name="PYTHONPATH" value="/Users/cwinslow/projects/hagerty-enterprise-data-hub:/Users/cwinslow/projects/hagerty-enterprise-data-hub/airflow" />
   </component>
 </application>
