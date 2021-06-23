@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="key" type="AUTO_DETECTED" />
       <mapping pattern="fasdf" type="AUTO_DETECTED" />
-      <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping ext="coveragerc" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
       <mapping pattern="end_to_end_tests.yml" type="YAML" />
     </extensionMap>
   </component>
